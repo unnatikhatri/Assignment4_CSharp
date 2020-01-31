@@ -27,7 +27,7 @@ namespace Assignment4_CSharp
             }
 
             //Replace Of 2nd word with it's synonym
-            words[1] = "Residence";
+            words[1] = "Home";
             Console.WriteLine("\n \nSynonym of word 'House' is : {0}\n", words[1]);
 
             //apending a new word and print the length of arraylist
